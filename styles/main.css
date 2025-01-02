@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: rgb(150, 66, 66);
+}
+h1 {
+  text-align: center;
+  color: #fff;
+  margin-top: 20px;
+}
+
+p {
+  border-left-color: #fff;
+  text-align: center;
+  color: #fff;
+  margin-top: 20px;
+}
